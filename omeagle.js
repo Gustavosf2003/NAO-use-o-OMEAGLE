@@ -18,7 +18,7 @@
 
 
 
-let apiKey = "e215140a298e459fb05aee723222e875";
+let apiKey = "COPIE A CHAVE AQUI!!!!!!!!!!!";
 
 window.oRTCPeerConnection =
   window.oRTCPeerConnection || window.RTCPeerConnection;
